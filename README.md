@@ -6,5 +6,5 @@ Project Autopoint
 - Summer Holiday 2022
 
 Project Webcreators
-- for recaping my skills
+- for recaping my Knowledge
 - June 2023
